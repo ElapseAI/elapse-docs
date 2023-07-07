@@ -26,14 +26,14 @@ We also welcome community contributions to our open-source `elapse_secrets` libr
 
 ## Getting Started with Elapse
 
-1. Visit our Discord channel: [🔮-ask-elapse](https://discord.com/channels/1102400404072960100/1116836328533921902).
+1. Visit our Discord channel: <#1116836328533921902>.
 2. Pose your question and select your stack.
 
 Feel free to reach out in the support channel or DM us directly if you encounter any issues or have queries.
 
 ## How to Use Elapse
 
-1. After reaching our Discord channel, locate the [🔮-ask-elapse](https://discord.com/channels/1102400404072960100/1116836328533921902) text channel.
+1. After reaching our Discord channel, locate the <#1116836328533921902> text channel.
 2. Type your question or command in the message bar. For example, you might ask, "How to implement authentication in FastAPI?"
 3. Choose your stack (i.e., language or framework) from the dropdown that appears.
 4. Wait for Elapse to process and reply with the relevant information.
