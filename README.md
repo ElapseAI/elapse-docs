@@ -9,4 +9,4 @@
 - [Merge Stacks](docs/MergeStacks.md)
 - [Upgrade Membership](docs/UpgradeMembership.md)
 - [Membership Options](docs/MembershipOptions.md)
-- [How to add Elapse to your Discord server?](docs/AddElapseToDiscord.md)
+- [How to add Elapse to your Discord server?](docs/integrations/Discord/Integrate.md)
