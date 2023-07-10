@@ -51,8 +51,6 @@ To add Elapse to your Discord server, follow these steps:
    Sending this message in any channel, mentioning the channels using **'#'**:
 
    ```
-
-
    \#Channel_1
    \#Channel_2
    ```
