@@ -1,7 +1,3 @@
-Here is an attempt to further expand the documentation:
-
-# README.md
-
 ## Table of Contents
 
 1. [Introduction](docs/01-introduction.md)
