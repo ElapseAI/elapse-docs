@@ -1,14 +1,20 @@
-### Table of Contents
+Here is an attempt to further expand the documentation:
 
-1. [Introduction to AI Concepts](docs/Introduction%20to%20AI%20Concepts.md)
-    - [AI Dictionary for Beginners](docs/Introduction%20to%20AI%20Concepts.md#ai-dictionary-for-beginners)
-    - [API Secrets & Authentication](docs/Introduction%20to%20AI%20Concepts.md#api-secrets--authentication)
-    - [Integration: Client-side & Others](docs/Introduction%20to%20AI%20Concepts.md#integration-client-side--others)
-    - [Understanding Filter Queries](docs/Introduction%20to%20AI%20Concepts.md#understanding-filter-queries)
-    - [The Role of Agent Types](docs/Introduction%20to%20AI%20Concepts.md#the-role-of-agent-types)
-    - [Delving into Large Language Models](docs/Introduction%20to%20AI%20Concepts.md#delving-into-large-language-models)
-2. [About Elapse AI](docs/About%20Elapse%20AI.md)
-    - [Why Choose Elapse?](docs/About%20Elapse%20AI.md#why-choose-elapse)
-    - [Our AI Technology](docs/About%20Elapse%20AI.md#our-ai-technology)
-    - [Advantages & Selling Points](docs/About%20Elapse%20AI.md#advantages--selling-points)
-3. [Contact & Support](docs/Contact%20%26%20Support.md)
+# README.md
+
+## Table of Contents
+
+1. [Introduction](docs/01-introduction.md)
+2. [Opportunities of Generative AI](docs/02-opportunities.md)
+3. [Risks and Challenges of Generative AI](docs/03-risks-and-challenges.md)
+   - [Technological Risks](docs/03-risks-and-challenges.md#technological-risks)
+   - [Infrastructure Requirements](docs/03-risks-and-challenges.md#infrastructure-requirements)
+   - [Implementation Challenges](docs/03-risks-and-challenges.md#implementation-challenges)
+   - [Bias, Fairness and Ethics](docs/03-risks-and-challenges.md#bias-fairness-and-ethics)
+   - [Legal and Compliance Risks](docs/03-risks-and-challenges.md#legal-and-compliance-risks)
+   - [Environmental Concerns](docs/03-risks-and-challenges.md#environmental-concerns)
+4. [Elapse AI Solutions](docs/04-elapse-ai-solutions.md)
+5. [Elapse AI Technology](docs/05-elapse-ai-technology.md)
+6. [Elapse AI Applications](docs/06-applications.md)
+7. [Elapse AI Advantages](docs/07-advantages.md)
+8. [Contact Elapse AI](docs/08-contact.md)
