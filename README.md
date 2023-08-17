@@ -1,12 +1,18 @@
-# Elapse Discord Bot Documentation
+Elapse AI Documentation
 
-## Table of Contents
-- [Introduction](docs/Introduction.md)
-- [Our Unique Approach](docs/UniqueApproach.md)
-- [Data Collection & Security](docs/DataCollectionAndSecurity.md)
-- [Getting Started with Elapse](docs/GettingStarted.md)
-- [How to Use Elapse](docs/HowToUse.md)
-- [Merge Stacks](docs/MergeStacks.md)
-- [Upgrade Membership](docs/UpgradeMembership.md)
-- [Membership Options](docs/MembershipOptions.md)
-- [How to add Elapse to your Discord server?](docs/integrations/Discord/Integrate.md)
+Welcome to the Elapse AI documentation. Here, we cover fundamental concepts, tools, and benefits related to AI and our offerings. Whether you're just starting out or have specific queries about our services, you'll find answers here.
+
+### Table of Contents
+
+1. [Introduction to AI Concepts](#introduction-to-ai-concepts)
+    - [AI Dictionary for Beginners](#ai-dictionary-for-beginners)
+    - [API Secrets & Authentication](#api-secrets--authentication)
+    - [Integration: Client-side & Others](#integration-client-side--others)
+    - [Understanding Filter Queries](#understanding-filter-queries)
+    - [The Role of Agent Types](#the-role-of-agent-types)
+    - [Delving into Large Language Models](#delving-into-large-language-models)
+2. [About Elapse AI](#about-elapse-ai)
+    - [Why Choose Elapse?](#why-choose-elapse)
+    - [Our AI Technology](#our-ai-technology)
+    - [Advantages & Selling Points](#advantages--selling-points)
+3. [Contact & Support](#contact--support)
