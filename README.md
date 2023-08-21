@@ -14,3 +14,7 @@
 6. [Elapse AI Applications](docs/06-applications.md)
 7. [Elapse AI Advantages](docs/07-advantages.md)
 8. [Contact Elapse AI](docs/08-contact.md)
+9. [Encryption & Data Protection](docs/09-encryption.md)
+   - [Encryption Standard](docs/09-encryption.md#optional-aes-256-encryption)
+   - [Compliance & Sustainability](docs/09-encryption.md#compliance-and-sustainability)
+   - [HTTPS SSL Protection](docs/09-encryption.md#https-ssl-protection)
