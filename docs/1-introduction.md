@@ -1,0 +1,2 @@
+## Introduction
+Welcome to the Elapse Ecosystem documentation. Elapse provides a suite of tools designed to elevate your business communications and analytics. Our products, Elapse Support and Elapse ERP, have been meticulously developed to cater to the needs of today's modern businesses.
